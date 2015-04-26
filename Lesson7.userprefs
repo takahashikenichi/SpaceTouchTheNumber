@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Debri.cs">
+    <Files>
+      <File FileName="../../../New Unity Project/Assets/NewBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Rotation.cs" Line="1" Column="1" />
+      <File FileName="Assets/Debri.cs" Line="33" Column="20" />
+      <File FileName="Assets/SpawnPoint.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
